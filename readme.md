@@ -1,1 +1,1 @@
-Test Blaze HMR on Meteor 2.0 with kadira:blaze-layout
+Test Blaze HMR on Meteor 2.0 with kadira:blaze-layout, see https://github.com/meteor/blaze/pull/313
