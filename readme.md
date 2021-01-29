@@ -1,0 +1,1 @@
+Test Blaze HMR on Meteor 2.0 with kadira:blaze-layout
